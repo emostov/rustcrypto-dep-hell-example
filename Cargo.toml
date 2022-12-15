@@ -1,5 +1,5 @@
 [package]
-name = "dep-hell-find-out"
+name = "rustcrypto-dep-hell-example"
 version = "0.1.0"
 edition = "2021"
 
